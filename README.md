@@ -32,4 +32,3 @@ mailer.send("recipient@example.com", "Subject", "Email body here");
 javac -cp javax.mail.jar src/GmailSMTP.java -d out/
 java -cp javax.mail.jar:out/ GmailSMTP
 ```
-Current stable: v1.1.0
