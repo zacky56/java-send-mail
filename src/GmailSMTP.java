@@ -53,3 +53,4 @@ public class GmailSMTP {
     }
 }
 // v1.1: added HTML body support
+// v1.1: added CC and BCC fields
